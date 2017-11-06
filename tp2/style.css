@@ -1,0 +1,30 @@
+h1 {
+	color: rgb(41, 38, 38);
+}
+body{
+    background-color: rgb(197, 183, 183) ;
+}
+form{
+    background-color: white ;
+    width: 800px;
+}
+#date{
+    width: 165px;   
+}
+#error{
+background-color: pink;
+padding: 5px;
+border: 1px;
+}
+#resultat {
+    color: white;
+    background-color: green;
+    padding: 5px;
+    border: 1px;
+}
+label
+{
+	display: block;
+	width: 150px;
+	float: left;
+}
